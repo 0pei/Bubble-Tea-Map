@@ -1,0 +1,76 @@
+D:\05-Visual studio\視窗作業\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\bertha\Music\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\bertha\Music\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\bertha\Music\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\bertha\Music\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\user\Desktop\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\user\Desktop\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\34-視窗\finalProject\finalProject\bin\Debug\finalProject.exe.config
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.exe
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.pdb
+D:\34-視窗\finalProject\finalProject\bin\Debug\finalProject.exe
+D:\34-視窗\finalProject\finalProject\bin\Debug\finalProject.pdb
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+D:\34-視窗\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\User\Downloads\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\User\Desktop\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\User\Desktop\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\User\Desktop\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\User\Desktop\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\bertha\Documents\視窗設計\finalProject-20191224T084305Z-001\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\bertha\Documents\視窗設計\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+D:\05-Visual studio\視窗作業\finalProject\finalProject\finalProject\obj\Debug\finalProject.Form2.resources
+C:\Users\User\Desktop\finalProject\finalProject\obj\Debug\finalProject.Form2.resources
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.Form2.resources
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\User\Desktop\finalProject-20191227T205934Z-001\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
